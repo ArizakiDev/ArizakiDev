@@ -13,6 +13,13 @@
 
 ---
 
+<h2 align="center">📍 Mes projets épinglés</h2>
+
+---
+- [SoundCloud-cracked](https://github.com/ArizakiDev/SoundCloud-cracked)
+- [Extaz-rpc](https://github.com/ArizakiDev/Extaz-rpc)
+- [Send-discord-json](https://github.com/ArizakiDev/Send-discord-json)
+
 <h2 align="center">📊 Stats Github</h2>
 
 <p align="center">
