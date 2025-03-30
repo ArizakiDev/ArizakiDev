@@ -2,7 +2,7 @@
   
   # 👋 Bienvenue sur le profil d'Arizaki
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Développeur%20Passionné&fontSize=50&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Développeuse%20Passionnée&fontSize=50&animation=fadeIn)
 
   [![Profile Views](https://komarev.com/ghpvc/?username=ArizakiDev&label=Visiteurs&color=blueviolet&style=for-the-badge)](https://github.com/ArizakiDev)
   [![GitHub followers](https://img.shields.io/github/followers/ArizakiDev?label=Followers&style=for-the-badge&logo=github)](https://github.com/ArizakiDev?tab=followers)
